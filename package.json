@@ -1,7 +1,7 @@
 {
   "name": "size",
   "version": "0.0.1",
-  "description": "Tiny size decorator",
+  "description": "Tiny file size decorator.",
   "main": "index.js",
   "repository": {
     "type": "git",
