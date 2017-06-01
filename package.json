@@ -1,0 +1,11 @@
+{
+  "name": "size",
+  "version": "0.0.1",
+  "description": "Tiny size decorator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinjide/size.git"
+  },
+  "author": "Akinjide Bankole <r@akinjide.me>"
+}
