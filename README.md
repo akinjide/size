@@ -1,7 +1,7 @@
 
 ## Size
 
-Tiny `size` decorator. This is a useful capability when working with file size, e.g. `(1157970 => 1.158 MB)`.
+Tiny `file size` decorator. This is a useful capability when working with file size, e.g. `(1157970 => 1.158 MB)`.
 
 ### Installation
 
