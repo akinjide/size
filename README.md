@@ -1,14 +1,14 @@
 
-### Size
+## Size
 
-Tiny `size` decorator. This is a useful capability when working with file size, e.g. (1157970 => 1.158 MB).
+Tiny `size` decorator. This is a useful capability when working with file size, e.g. `(1157970 => 1.158 MB)`.
 
-#### Installation
+### Installation
 
 ```
 $ npm install akinjide/size
 ```
 
-### License
+## License
 
 MIT
